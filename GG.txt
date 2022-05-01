@@ -1,1 +1,3 @@
 GG you are on your way to your first github commit!!!
+
+Getting ready for second commit!!
